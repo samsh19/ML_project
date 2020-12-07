@@ -1,13 +1,6 @@
 # ML Project: image segmentation with style transfer
 
-This is a project for NYU intro to ML. The goal of this project is to combine the image segmentation, style transfer techniques to **create a partial style transfer image to a specific objective**.
-
-Note that for the segmentation, we only specify one object here. 
-
-
-All the technique code is based on the PyTorch official tutorial document.
->https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html<br>
->https://pytorch.org/tutorials/advanced/neural_style_tutorial.html<br>
+This is a project for NYU intro to ML. The goal of this project is to combine the image segmentation, style transfer techniques to **create a partial style transfer image to a specific objective** (Note that for the segmentation, we only specify one object here).
 
 This repository **didn't change much on the original code** but **provide the new display of the image outcome**.
 
@@ -31,3 +24,10 @@ To get the result, the steps have been listed below:
 
 ### Further improvement:
 For the improvement, I will try on the Fast Style Transfer from the improved version to reduce the predicting time (each image will synthesis re-train each time for predicting). Since either the segmentation and style transfer technique all have the real-time processed version. I hope this project can generate a real-time processor for a similar technique in the future.
+
+### Reference:
+All the technique code is based on the PyTorch official tutorial document.
+>https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html<br>
+>https://pytorch.org/tutorials/advanced/neural_style_tutorial.html<br>
+
+All images refer from the google search.
