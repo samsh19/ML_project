@@ -19,7 +19,7 @@ For the style transfer, the orginal version of style transfer has been used in h
 
 ### Result:
 <p align = 'center'>
-<img src = 'compare_images/polor_bear_japan_paint_wave_compare.png'>
+<img src = 'https://github.com/samsh19/ML_project/blob/main/data/compare_images/polor_bear_japan_paint_wave_compare.png?raw=true'>
 </p>
 <p align = 'center'>
 From the left to right, the content image, style image, style transferred image, segmentation of the content image, and the outcome
